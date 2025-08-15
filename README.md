@@ -39,6 +39,6 @@ Este projeto em Python utiliza a [API pública do GitHub](https://api.github.com
 ## 👤 Autor
 
 Daniel Cauldron  
-[GitHub](https://github.com/DanielCauldron)
+[GitHub](https://github.com/DanielCauldron/projeto_request/blob/master/linguagens_repos.ipynb)
 
 > Projeto para estudo
